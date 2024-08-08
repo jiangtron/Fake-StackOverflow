@@ -13,22 +13,3 @@ In the server directory run "npm run start" to start the backend.
 Go to http://localhost:3000 to see the project.
 
 To test the Unit tests run "npm test" in the server directory.
-
-## Team Member 1 Contribution
-Jacky Chen
-Create Account
-Login
-Answer Page
-Answer Form
-Comments Upvotes Downvotes
-UserSchema
-Jest Unit Tests
-## Team Member 2 Contribution
-Justin Jiang
-Home Page
-Login
-Questions Page
-Question Form
-Search Functionality
-User Profile
-Admin Profile
